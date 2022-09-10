@@ -5,8 +5,8 @@
 <h4>Series of projects carried out which included different stages of attacks - Survey, Delivery, Breach, Affect. Also, Evaluation and Testing </h4>
   
 - <b>Network Designs </b>  
-  - [Vulnerable Network design](https://github.com/joshmadakor1/4chan-Image)<b><i>(Design include Metasploit 2 Linux machine)</b></i>
-  - [Secured Network Architecture ](https://github.com/joshmadakor1/4chan-Image)<b><i>(Design include NIDS)</b></i>
+  - [Vulnerable Network design](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#vulnerable-network-design)<b><i>(Design include Metasploit 2 Linux machine)</b></i>
+  - [Secured Network Architecture ](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#secured-network-architecture-)<b><i>(Design include NIDS)</b></i>
 - <b>Information Gathering  </b>
   - [Identifying Vulnerabilities in the target network](https://github.com/joshmadakor1/4chan-Image)<b><i>(Zenmap tool for “intense scan” )</b></i>
   - [Identifying Vulnerabilities in the target Host](https://github.com/joshmadakor1/4chan-Image)<b><i>(NMAP tool for “intense scan” )</b></i>
