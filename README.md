@@ -46,7 +46,7 @@
 <h2>📺 Programming Projects:</h2>
 
 - <b>C# (.NET Razor Framework)</b>
-  - [E-Commerce website](https://github.com/joshmadakor1/EncrypterPOC)
+  - [E-Commerce website](https://github.com/fabbiety/Furniture-Website)
 
 
 <h2>📺 Reseach Work and Reports:</h2>
