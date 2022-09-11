@@ -51,9 +51,9 @@
 
 <h2>📺 Reseach Work and Reports:</h2>
 
-- [Security of Microservice Deployment in Cloud Containers](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Security of Microservice Deployment in Cloud Containers](https://github.com/fabbiety/Reports/blob/main/Project%20Presentation.pptx)
 
-- [Cloud Computing Security: User Authentication](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Cloud Computing Security: User Authentication](https://github.com/fabbiety/Reports/blob/main/Report%20on%20Cloud%20Computing%20Security.docx)
 
 
 <h2> 🤳 Connect with me:</h2>
