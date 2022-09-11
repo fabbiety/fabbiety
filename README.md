@@ -8,25 +8,25 @@
   - [Vulnerable Network design](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#vulnerable-network-design)<b><i>(Design include Metasploit 2 Linux machine)</b></i>
   - [Secured Network Architecture ](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#secured-network-architecture-)<b><i>(Design include NIDS)</b></i>
 - <b>Information Gathering  </b>
-  - [Identifying Vulnerabilities in the target network](https://github.com/joshmadakor1/4chan-Image)<b><i>(Zenmap tool for “intense scan” )</b></i>
-  - [Identifying Vulnerabilities in the target Host](https://github.com/joshmadakor1/4chan-Image)<b><i>(NMAP tool for “intense scan” )</b></i>
+  - [Identifying Vulnerabilities in the target network](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#identifying-vulnerabilities-in-the-target-network)<b><i>(Zenmap tool for “intense scan” )</b></i>
+  - [Identifying Vulnerabilities in the target Host](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#identifying-vulnerabilities-in-the-target-host)<b><i>(NMAP tool for “intense scan” )</b></i>
    
 - <b>Brute Force Attack</b>
-  - [To obtain the credentials of the vulnerable machine](https://github.com/joshmadakor1/Sentinel-Lab)<b><i>( Tools Used : Kali Linux, HYDRA, Metasploit 2 Linux machine, Wireshark)</b></i>
+  - [To obtain the credentials of the vulnerable machine](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#brute-force-attack-)<b><i>( Tools Used : Kali Linux, HYDRA, Metasploit 2 Linux machine, Wireshark)</b></i>
     
 - <b>Smiley Face Attack</b>
-  - [FTP vsftpd 2.3.4 version attack known as Smiley face attack](https://github.com/joshmadakor1/Sen)<b><i>( Tools Used : Kali Linux, Netcat, Metasploit 2 Linux machine)</b></i>
+  - [FTP vsftpd 2.3.4 version attack known as Smiley face attack](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#smiley-face-attack)<b><i>( Tools Used : Kali Linux, Netcat, Metasploit 2 Linux machine)</b></i>
   
 - <b>Secure Shell Exploit</b>
-    - [Exploitation using Secure Shell](https://github.com/joshmadakor1/fffdd)<b><i>( Tools Used : Kali Linux, Metasploit 2 Linux machine, msfconsole)</b></i>
+    - [Exploitation using Secure Shell](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#secure-shell-exploit)<b><i>( Tools Used : Kali Linux, Metasploit 2 Linux machine, msfconsole)</b></i>
    
 - <b>SQL Injection Attack</b>
-    - [Using SQL rules to retrieving hidden information or modifying them using SQL query](https://github.com/joshmadakor1/fffdd)<b><i>( Tools Used : Kali Linux, Sqlmap, Metasploit 2 Linux machine, DVWA web application server)</b></i>
+    - [Using SQL rules to retrieving hidden information or modifying them using SQL query](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#sql-injection-attack)<b><i>( Tools Used : Kali Linux, Sqlmap, Metasploit 2 Linux machine, DVWA web application server)</b></i>
     
 - <b>Flood Attack</b>
-    - [This attack shows the Distributed Denial of Service (DDOS) attack using two methods](https://github.com/joshmadakor1/fffdd)<b><i>(Tools Used : Kali Linux, Metasploit 2 Linux machine, HPing3, Synflood, Snort)</b></i>
+    - [This attack shows the Distributed Denial of Service (DDOS) attack using two methods](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#flood-attack)<b><i>(Tools Used : Kali Linux, Metasploit 2 Linux machine, HPing3, Synflood, Snort)</b></i>
    
-- [Testing strategy and Evaluation of Test Outcome](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- [Testing strategy and Evaluation of Test Outcome](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#evaluation-of-test-outcomes)
 
 
 <h2>📺 DevOpSec and Cloud Security Projects:</h2>
