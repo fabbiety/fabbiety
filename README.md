@@ -32,7 +32,7 @@
 <h2>📺 DevOpSec and Cloud Security Projects:</h2>
 
 - <b>Security of DevOps Pipeline</b>
-    - [Implementation of SAST, SCA and DAST for pipeline security](https://github.com/joshmadakor1/fffdd)<b><i>(Tools Used : Github Action, SonarCloud, Snyk, OWAPS ZAP, Vs Code Editor)</b></i>
+    - [Implementation of SAST, SCA and DAST for pipeline security](https://github.com/fabbiety/devsecops-github-actions-all)<b><i>(Tools Used : Github Action, SonarCloud, Snyk, OWAPS ZAP, Vs Code Editor)</b></i>
     
 - <b>Multifactor Authentication with Azure Conditional Access</b>
     - [Configuration of MFA for Cloud Apps using Conditional Accees Policy](https://github.com/joshmadakor1/fffdd)<b><i>(Tools Used :Microsoft Azure portal)</b></i>
