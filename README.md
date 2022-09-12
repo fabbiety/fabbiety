@@ -35,14 +35,17 @@
     - [Implementation of SAST, SCA and DAST for pipeline security](https://github.com/fabbiety/devsecops-github-actions-all)<b><i>(Tools Used : Github Action, SonarCloud, Snyk, OWAPS ZAP, Vs Code Editor)</b></i>
     
 - <b>Multifactor Authentication with Azure Conditional Access</b>
-    - [Configuration of MFA for Cloud Apps using Conditional Accees Policy](https://github.com/joshmadakor1/fffdd)<b><i>(Tools Used :Microsoft Azure portal)</b></i>
+    - [Configuration of MFA for Cloud Apps using Conditional Access Policy](https://github.com/fabbiety/Reports/blob/main/Authentication.pdf)<b><i>(Tools Used :Microsoft Azure portal)</b></i>
     
 - <b>Role-Base Access Control for Azure Kubernetes Cluster </b>
-    - [Role assinment for User authorisation on AKS cluster ](https://github.com/joshmadakor1/fffdd)<b><i>(Tools Used :Microsoft Azure portal, Powershell)</b></i> 
+    - [Role assignment for User authorization on AKS cluster  ](https://github.com/fabbiety/Reports/blob/main/RBAC.pdf)<b><i>(Tools Used :Microsoft Azure portal, Powershell)</b></i> 
     
 - <b>Secret Management </b>
-    - [Integrating Azure KeyVault with AKS cluster ](https://github.com/joshmadakor1/fffdd)<b><i>(Tools Used :Microsoft Azure portal, Powershell)</b></i>  
+    - [Integrating Azure KeyVault with AKS cluster ](https://github.com/fabbiety/Reports/blob/main/Secret%20Management.pdf)<b><i>(Tools Used :Microsoft Azure portal, Powershell)</b></i>  
     
+- <b>Cloud security Framework</b>
+  - [Website for security framework of Cloud containers  ](https://github.com/fabbiety/Web-Security-Framework)
+  
 <h2>📺 Programming Projects:</h2>
 
 - <b>C# (.NET Razor Framework)</b>
