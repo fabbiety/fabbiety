@@ -31,6 +31,9 @@
 
 <h2>📺 DevOpSec and Cloud Security Projects:</h2>
 
+- <b>SIEM - Azure Sentinel</b>
+    - [Azure Sentinel MAP with LIVE CYBER ATTACKS](https://github.com/fabbiety/SIEM-AzureSentinel-LiveCyberAttack/blob/main/README.md)<b><i>(Tools Used :Microsoft Azure portal, Powershell, Microsoft Defender for Cloud, Log Analytics, Azure Sentinel)</b></i>  
+    
 - <b>Security of DevOps Pipeline</b>
     - [Implementation of SAST, SCA and DAST for pipeline security](https://github.com/fabbiety/devsecops-github-actions-all)<b><i>(Tools Used : Github Action, SonarCloud, Snyk, OWAPS ZAP, Vs Code Editor)</b></i>
     
