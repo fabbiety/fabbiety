@@ -58,6 +58,20 @@
 
 - [Cloud Computing Security: User Authentication](https://github.com/fabbiety/Reports/blob/main/Report%20on%20Cloud%20Computing%20Security.docx)
 
+<h2> Certifications and Affiliations: </h2>
+
+•   Certified in Cybersecurity [CC (ISC)2](https://www.credly.com/badges/15a12431-43cb-4db8-ae15-d66db674c2a1/public_url)   
+
+•   Certificate in IT, British Computer Society 
+
+•   Microsoft Certified Solutions Expert (MCSE): Communication
+
+•   Microsoft Certified Solutions Associate (MCSA): Office 365
+
+•   Cisco Certified Network Associate (CCNA) Explorations 
+
+•   Executive Team Leadership, Lagos Business School 
+
 
 
 <h2> 🤳 Connect with me:</h2>
