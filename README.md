@@ -65,6 +65,8 @@
 
 •   Certified in Cybersecurity [CC (ISC)2](https://www.credly.com/badges/15a12431-43cb-4db8-ae15-d66db674c2a1/public_url)   
 
+•   Azure Security Engineer
+
 •   Certificate in IT, British Computer Society 
 
 •   Microsoft Certified Solutions Expert (MCSE): Communication
