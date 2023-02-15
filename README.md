@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tim! <br/> <a href="https://www.linkedin.com/in/timothy-fabelurin">Cybersecurity Professional</a>, <a href="https://github.com/fabbiety">DevOpSec</a>, <a href="https://www.linkedin.com/in/timothy-fabelurin">Cloud Support Engineer</a></h1>
+<h1>Hi, I'm Tim! <br/> <a href="https://www.linkedin.com/in/timothy-fabelurin">Cybersecurity Professional</a>, <a href="https://github.com/fabbiety">DevOpSec</a>, <a href="https://www.linkedin.com/in/timothy-fabelurin">Cloud Operations Engineer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects Projects:</h2>  
 
